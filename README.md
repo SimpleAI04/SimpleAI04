@@ -16,7 +16,6 @@
 
 ### 📫 How to Reach Me:
 - 📧 Email: **dongquan312004@gmail.com**
-- 💼 LinkedIn: 
 
 ---
 
