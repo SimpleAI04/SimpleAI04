@@ -10,7 +10,7 @@
 - 🤖 Transformers & LLMs (e.g., BERT, GPT, Mistral, LLaMA)
 - 🧠 Fine-tuning & Prompt Engineering
 - ☁️ Model Deployment (Gradio, Hugging Face Spaces, AWS)
-- 📚 Preparing for: 
+- 📚 Preparing for: ChatBot, AI Agent, RAG
 
 ---
 
